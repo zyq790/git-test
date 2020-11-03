@@ -9,4 +9,8 @@ public class ZyqTest {
         System.out.println("git使用了.....");
         System.out.println("git使用了.....");
     }
+    public void test(){
+        int i=1;
+        i+=10;
+    }
 }
